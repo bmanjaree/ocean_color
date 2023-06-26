@@ -1,9 +1,9 @@
 # Project Title: ocean_color
 
 
-Name(s) of team member 1: Bao Nguyen Quoc
+Name(s) of team member: Bao Nguyen Quoc
 
-Name(s) of team member 1: Manjaree Binjolkar
+Name(s) of team member: Manjaree Binjolkar
 
 
 ## Summary: 
